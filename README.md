@@ -20,7 +20,7 @@
   <img aling="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
 
-##Sobre mim
+## Sobre mim
 
 Desenvolvedor web apaixonado com experiência em PHP, JavaScript e Bootstrap. Com formação em Sistemas de Informação e conhecimentos sólidos, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Atualmente, estou procurando uma posição onde eu possa contribuir para projetos inovadores e colaborar com uma equipe talentosa.
 
